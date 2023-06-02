@@ -27,3 +27,4 @@ Skills: C / java / JS / HTML / CSS / PHP / Python / OpenCV
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/adnan182)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/adnan182)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan182&show_icons=true&theme=radical)
