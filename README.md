@@ -1,7 +1,6 @@
 <h1 align="center"> I'm Md. Adnan Hossain</h1>
 <h3 align="center">Student of CSE at Patuakhali Science And Technology University, Bangladesh</h3>
 I have knowledge on WordPress, eCommerce & Web Developer.
-Now i am learning Python, Machine learning 
 
 Skills: C / java / JS / HTML / CSS / PHP / Python / OpenCV
 - 🌱 I’m currently learning Python, Machine Learning, Dart, Flutter  
