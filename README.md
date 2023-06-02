@@ -4,8 +4,7 @@ I have some knowledge on WordPress, eCommerce & Web Developer.
 Now i am learning Python, Machine learning 
 
 Skills: C / java / JS / HTML / CSS / PHP / Python / OpenCV
-- 🌱 I’m currently learning Python, Machine Learning, Dart, Flutter 
-- 💬 Ask me about Web Developing 
+- 🌱 I’m currently learning Python, Machine Learning, Dart, Flutter  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adnan182)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-adnan-hossain-5410a91a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/adnan.adnanhossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/a_d_n_a_n_hossain//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/pstu_adnan82)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/pstu_adnan/)  
 
