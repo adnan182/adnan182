@@ -1,9 +1,9 @@
 <h1 align="center"> I'm Md. Adnan Hossain</h1>
 <h3 align="center">Student of CSE at Patuakhali Science And Technology University, Bangladesh</h3>
-I have knowledge on WordPress, eCommerce & Web Developer.
+I have knowledge on WordPress, eCommerce & Web Developer. Now i'm envoled in researching on Machine learning , NLP, Deep learning. 
 
-Skills: C / java / JS / HTML / CSS / PHP / Python / OpenCV
-- 🌱 I’m currently learning Python, Machine Learning, Dart, Flutter  
+Skills: C / Python / JS / HTML / CSS / Python / OpenCV
+- 🌱 I’m currently learning Python, Machine Learning.  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adnan182)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-adnan-hossain-5410a91a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/adnan.adnanhossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/a_d_n_a_n_hossain//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/pstu_adnan82)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/pstu_adnan/)  
 
