@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Md. Adnan Hossain</h1>
 <h3 align="center">Student of CSE at Patuakhali Science And Technology University, Bangladesh</h3>
-I have knowledge on WordPress, eCommerce & Web Developer. Now i'm envoled in researching on Machine learning , NLP, Deep learning. 
+My academic journey is enriched with hands-on research in machine learning, natural language processing (NLP), and deep learning. Alongside my research endeavors, I have developed a strong foundation in web development and Django.  I am passionate about leveraging these technologies to solve real-world problems and am constantly seeking opportunities to apply my skills in innovative projects. 
 
 Skills: C / Python / JS / HTML / CSS / Python / OpenCV
 - 🌱 I’m currently learning Python, Machine Learning.  
